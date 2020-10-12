@@ -176,18 +176,18 @@ dependencies {
         transitive = false
       }
 
-      implementation "com.google.firebase:firebase-core:11.0.2"
+      implementation "com.google.firebase:firebase-core:11.4.2"
 
       // RNFirebase optional dependencies
-      implementation "com.google.firebase:firebase-ads:11.0.2"
-      implementation "com.google.firebase:firebase-analytics:11.0.2"
-      implementation "com.google.firebase:firebase-auth:11.0.2"
-      implementation "com.google.firebase:firebase-config:11.0.2"
-      implementation "com.google.firebase:firebase-crash:11.0.2"
-      implementation "com.google.firebase:firebase-database:11.0.2"
-      implementation "com.google.firebase:firebase-messaging:11.0.2"
-      implementation "com.google.firebase:firebase-perf:11.0.2"
-      implementation "com.google.firebase:firebase-storage:11.0.2"
+      implementation "com.google.firebase:firebase-ads:11.4.2"
+      implementation "com.google.firebase:firebase-analytics:11.4.2"
+      implementation "com.google.firebase:firebase-auth:11.4.2"
+      implementation "com.google.firebase:firebase-config:11.4.2"
+      implementation "com.google.firebase:firebase-crash:11.4.2"
+      implementation "com.google.firebase:firebase-database:11.4.2"
+      implementation "com.google.firebase:firebase-messaging:11.4.2"
+      implementation "com.google.firebase:firebase-perf:11.4.2"
+      implementation "com.google.firebase:firebase-storage:11.4.2"
 
 
       //Firebase change end
