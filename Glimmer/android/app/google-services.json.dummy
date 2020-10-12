@@ -1,0 +1,15 @@
+{
+  "project_info": {
+    "project_number": 1
+  },
+  "client": [{
+    "client_info": {
+      "android_client_info": {
+        "package_name": "com.rettvendt.glimmer"
+      }
+    },
+    "api_key": [{
+      "current_key": "foo"
+    }]
+  }]
+}
